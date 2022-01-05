@@ -412,6 +412,7 @@ a {
 }
 .default:hover {
   background-color: #9cecfd transistion(ease-in);
+  transition: ease-in;
 }
 
 .error {
@@ -419,6 +420,7 @@ a {
 }
 .error:hover {
   background-color: #f1b5b8;
+  transition: ease-in;
 }
 
 .info {
@@ -426,6 +428,7 @@ a {
 }
 .info:hover {
   background-color: #bdafd9;
+  transition: ease-in;
 }
 
 .success {
@@ -433,6 +436,7 @@ a {
 }
 .success:hover {
   background-color: #9ddfb0;
+  transition: ease-in;
 }
 
 .warning {
@@ -440,6 +444,7 @@ a {
 }
 .warning:hover {
   background-color: #feb4a2;
+  transition: ease-in;
 }
 
 /* ============================================= */
