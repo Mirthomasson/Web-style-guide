@@ -15,7 +15,7 @@ $font-family: "Lato", sans-serif;
 $brk-wide: 768px;
 
 // color-lighten
-$default-color-lighten: lighten($default, 15%) transistion(ease-in);
+$default-color-lighten: lighten($default, 15%);
 $error-color-lighten: lighten($error, 15%);
 $info-color-lighten: lighten($info, 15%);
 $success-color-lighten: lighten($success, 15%);

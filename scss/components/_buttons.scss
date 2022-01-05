@@ -16,7 +16,7 @@
   background-color: $default;
   &:hover {
     background-color: $default-color-lighten;
-    transition: ease-in;
+    transition: ease 1s;
   }
 }
 
@@ -24,7 +24,7 @@
   background-color: $error;
   &:hover {
     background-color: $error-color-lighten;
-    transition: ease-in;
+    transition: ease 1s;
   }
 }
 
@@ -32,7 +32,7 @@
   background-color: $info;
   &:hover {
     background-color: $info-color-lighten;
-    transition: ease-in;
+    transition: ease 1s;
   }
 }
 
@@ -40,7 +40,7 @@
   background-color: $success;
   &:hover {
     background-color: $success-color-lighten;
-    transition: ease-in;
+    transition: ease 1s;
   }
 }
 
@@ -48,6 +48,6 @@
   background-color: $warning;
   &:hover {
     background-color: $warning-color-lighten;
-    transition: ease-in;
+    transition: ease 1s;
   }
 }
