@@ -1,0 +1,22 @@
+// colors
+$grey: #777;
+$white: #fff;
+$aquamarine: #58e1c1;
+$default: #51ddfc;
+$error: #e4757a;
+$info: #927bc1;
+$success: #63cc82;
+$warning: #fd7856;
+
+// fonts
+$font: "Lato", sans-serif;
+
+// media query
+$brk-wide: 768px;
+
+// color-lighten
+$default-color-lighten: lighten($default, 15%) transistion(ease-in);
+$error-color-lighten: lighten($error, 15%);
+$info-color-lighten: lighten($info, 15%);
+$success-color-lighten: lighten($success, 15%);
+$warning-color-lighten: lighten($warning, 15%);
